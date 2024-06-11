@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ângelo da silva</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="contanier">
+        <div class="box">
+            <nav>
+                <a href="#" class="logo">Ângelo</a>
+                <ul>
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Sobre</a></li>
+                    <li><a href="#">Contato</a></li>
+                </ul>
+
+            </nav>
+
+            <div class="contains">
+                <div class="section1">
+                    <h1>Oi, eu sou Ângelo</h1>
+                    <h3>Frontend Desenvolvedor</h3>
+                    <p>"Eu sou a maquina de fazer dinheiro. você?...<br>...você quem faz meu dinheiro"</p>
+                    <a href="#" class="btn">Contato</a>
+                </div>
+                <div class="section2">
+                    <img src="./IMG/IMG_0006.jpg" alt="foto angelo">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
